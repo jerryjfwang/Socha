@@ -43,7 +43,7 @@
     "react-three-fiber": "^4.0.12",
     "rn-bottom-drawer": "^1.4.3",
     "styled-components": "^5.0.0",
-    "three": "^0.113.2"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
